@@ -4,12 +4,11 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Figma-3B82F6?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@ragavi-mukkara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukkararagavi/)
 [![Email](https://img.shields.io/badge/Email-mukkararagavi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukkararagavi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ragavi-Mukkara)
 
-**Bengaluru, India** | **Open to Internships & Entry-Level UX/UI Roles** | **Available June 2026**
+**Bengaluru, India** | **Open to Internships & Entry-Level UX/UI Roles** |
 
 </div>
 
@@ -21,7 +20,7 @@
 *Mobile-First Design | 15+ Screens | Figma*
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1489599150841-b456fc6be455?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Movie App Preview" width="600" height="400"/>
+  <img src="https://ibb.co/LDb8Mh4Y" alt="Movie App Preview" width="600" height="400"/>
 </div>
 
 **Problem:** User friction in movie selection, seat booking, and payment flows on mobile  
@@ -29,7 +28,7 @@
 **Process:** 15+ wireframes → high-fidelity mockups → interactive prototypes  
 **Outcome:** Streamlined booking flow (est. 40% faster); WCAG accessible  
 
-[![Live Prototype](https://img.shields.io/badge/Live-Figma_Prototype-FF6B35?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/6E3TJckLy21ViFO3IpBbEE/Untitled?node-id=0-1)
+[![Live Prototype]](https://www.figma.com/design/6E3TJckLy21ViFO3IpBbEE/Untitled?node-id=0-1)
 
 ---
 
@@ -37,7 +36,7 @@
 *E-commerce UX | 8+ Screens | Figma*
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Coffee Ordering Preview" width="600" height="400"/>
+  <img src="(https://ibb.co/PGHSFqtw)" alt="Coffee Ordering Preview" width="600" height="400"/>
 </div>
 
 **Problem:** High checkout abandonment due to complex navigation  
@@ -45,7 +44,7 @@
 **Process:** Wireframes → design system → micro-interaction prototype  
 **Outcome:** Intuitive categorization + smooth navigation flow  
 
-[![Live Prototype](https://img.shields.io/badge/Live-Figma_Prototype-FF6B35?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YjgjZ4JcoskzgrGqV4mX5h/Untitled?node-id=0-1)
+[![Live Prototype]](https://www.figma.com/design/YjgjZ4JcoskzgrGqV4mX5h/Untitled?node-id=0-1&t=LtjORWk8c4atZguG-1))
 
 ---
 
@@ -53,7 +52,7 @@
 *Accessibility-First | 5+ Screens | Figma*
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1576091160399-1d65c3992d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Awareness Site Preview" width="600" height="400"/>
+  <img src="https://ibb.co/9HJ43V1y" alt="Awareness Site Preview" width="600" height="400"/>
 </div>
 
 **Problem:** Need accessible health awareness design without overwhelming users  
@@ -61,7 +60,7 @@
 **Process:** WCAG-compliant layout with optimized color contrast + typography  
 **Outcome:** Balanced informative content + visual appeal for diverse audiences  
 
-[![Live Prototype](https://img.shields.io/badge/Live-Figma_Prototype-FF6B35?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YjgjZ4JcoskzgrGqV4mX5h/Untitled?node-id=292-127)
+[![Live Prototype]]([https://www.figma.com/design/YjgjZ4JcoskzgrGqV4mX5h/Untitled?node-id=292-127](https://www.figma.com/design/YjgjZ4JcoskzgrGqV4mX5h/Untitled?node-id=24-2&t=9Vi99nYUgIOmynxO-1))
 
 ---
 
