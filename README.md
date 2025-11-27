@@ -48,7 +48,7 @@
 **Process:** WCAG-compliant layout with optimized color contrast + typography  
 **Outcome:** Balanced informative content + visual appeal for diverse audiences  
 
-[![Live Prototype]]([https://www.figma.com/design/YjgjZ4JcoskzgrGqV4mX5h/Untitled?node-id=292-127](https://www.figma.com/design/YjgjZ4JcoskzgrGqV4mX5h/Untitled?node-id=24-2&t=9Vi99nYUgIOmynxO-1))
+[![Live Prototype]](https://www.figma.com/design/YjgjZ4JcoskzgrGqV4mX5h/Untitled?node-id=24-2&t=9Vi99nYUgIOmynxO-1)
 
 ---
 
