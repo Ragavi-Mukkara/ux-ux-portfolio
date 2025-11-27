@@ -19,10 +19,6 @@
 ### 🎬 **Movie Ticket Booking App** 
 *Mobile-First Design | 15+ Screens | Figma*
 
-<div align="center">
-  <img src="https://ibb.co/LDb8Mh4Y" alt="Movie App Preview" width="600" height="400"/>
-</div>
-
 **Problem:** User friction in movie selection, seat booking, and payment flows on mobile  
 **Solution:** Intuitive mobile-first interface with intelligent seat selection visualization  
 **Process:** 15+ wireframes → high-fidelity mockups → interactive prototypes  
@@ -35,10 +31,6 @@
 ### ☕ **Coffee & Desserts Ordering Webpage** 
 *E-commerce UX | 8+ Screens | Figma*
 
-<div align="center">
-  <img src="(https://ibb.co/PGHSFqtw)" alt="Coffee Ordering Preview" width="600" height="400"/>
-</div>
-
 **Problem:** High checkout abandonment due to complex navigation  
 **Solution:** Clean ordering interface with optimized product display + one-click checkout  
 **Process:** Wireframes → design system → micro-interaction prototype  
@@ -50,10 +42,6 @@
 
 ### 💕 **Breast Cancer Awareness Webpage** 
 *Accessibility-First | 5+ Screens | Figma*
-
-<div align="center">
-  <img src="https://ibb.co/9HJ43V1y" alt="Awareness Site Preview" width="600" height="400"/>
-</div>
 
 **Problem:** Need accessible health awareness design without overwhelming users  
 **Solution:** Responsive webpage with visual hierarchy + emotional resonance  
@@ -95,7 +83,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukkararagavi/)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukkararagavi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_All-3B82F6?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Ragavi-Mukkara/ux-portfolio)
 
 </div>
 
@@ -107,6 +94,5 @@
 
 <div align="center">
 **👋 Thanks for visiting!** ⭐ *Please star this repo if you like my work*
-![Open to Work](https://img.shields.io/badge/Open_to_Work-2025-00D084?style=for-the-badge&logo=linkedin&logoColor=white)
 *© 2025 Ragavi Mukkara. Built with ❤️ using GitHub & Figma.* [file:21]
 </div>
