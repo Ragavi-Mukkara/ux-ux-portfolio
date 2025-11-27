@@ -68,9 +68,9 @@
 
 **Computer Science student** (B.Tech GITAM University, CGPA 7.69) passionate about **merging technology with human-centered design**. 
 
-- **Research Intern** at Pathvision Innovations (AI for agriculture + smart mobility) [file:21]
-- Hands-on experience with **user research, wireframing, prototyping, usability testing** [file:21]
-- Strong **technical foundation** enables effective collaboration with engineering teams [file:21]
+- **Research Intern** at Pathvision Innovations (AI for agriculture + smart mobility) 
+- Hands-on experience with **user research, wireframing, prototyping, usability testing** 
+- Strong **technical foundation** enables effective collaboration with engineering teams 
 - **User-centric mindset** – translating complex systems into intuitive interfaces
 
 > *"Design is not just what it looks like, it's how it works."* – Steve Jobs
@@ -94,5 +94,5 @@
 
 <div align="center">
 **👋 Thanks for visiting!** ⭐ *Please star this repo if you like my work*
-*© 2025 Ragavi Mukkara. Built with ❤️ using GitHub & Figma.* [file:21]
+*© 2025 Ragavi Mukkara. Built with ❤️ using GitHub & Figma.* 
 </div>
